@@ -1,26 +1,36 @@
 <div align="center">
-  
-# Ahmad Abu Raya
+
+# 👋 Hi, I'm Ahmad Abu Raya
+
+### Full-Stack Developer • Problem Solver • AI-Powered Systems Enthusiast
+
+Building intelligent web applications through AI, Semantic Search, and Modern Full-Stack Development.
+
+<br>
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/a7mad.ishaq)
+[![GitHub](https://img.shields.io/badge/GitHub-a7madishaq-181717?style=for-the-badge&logo=github)](https://github.com/a7madishaq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=a7madishaq&style=for-the-badge)
 
 </div>
 
-### Full-Stack Developer · Problem Solver · AI-Powered Systems Enthusiast
-
-Building intelligent web applications through AI, semantic search, and modern full-stack development.
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/a7mad.ishaq)
-[![GitHub](https://img.shields.io/badge/GitHub-a7madishaq-black?logo=github)](https://github.com/a7madishaq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-
 ---
 
-## 🚀 About
+## 🚀 About Me
 
-I'm a Web Programming and Multimedia graduate from Hebron University with a strong interest in full-stack development, artificial intelligence, semantic search systems, and software architecture.
+I'm a Web Programming and Multimedia graduate from **Hebron University** with a strong passion for software engineering, artificial intelligence, semantic search systems, and scalable web applications.
 
-I enjoy solving complex programming problems and continuously improving my algorithmic thinking through competitive programming and algorithmic challenges on Codeforces and AtCoder.
+I enjoy solving complex programming challenges and continuously improving my algorithmic thinking through **Codeforces** and competitive programming.
 
-My work focuses on building secure, scalable, and user-centered applications using modern web technologies and software engineering principles.
+My primary interests include:
+
+- 🤖 Artificial Intelligence
+- 🔍 Semantic Search & Vector Databases
+- 🌐 Full-Stack Development
+- ⚡ Software Architecture
+- 🧠 Algorithms & Problem Solving
 
 ---
 
@@ -28,115 +38,121 @@ My work focuses on building secure, scalable, and user-centered applications usi
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
+</p>
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000)
-
-### AI & Search
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00)
-![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-34A853)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation_Systems-EA4335)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
 
 ---
 
-## 📌 Selected Projects
+## 🎯 Current Project
 
-### 🎨 InkFig — AI-Powered Art Sharing Platform *(In Progress)*
+### 🎨 InkFig *(In Progress)*
 
-An intelligent multimedia platform for sharing and discovering digital artwork.
+AI-Powered Art Sharing Platform built with **Next.js**, **FastAPI**, and **PostgreSQL**.
 
-- Semantic image search using vector embeddings.
-- Personalized recommendation system based on user interactions.
-- FastAPI backend with Next.js frontend.
-- PostgreSQL database integration.
-- AI-powered artwork discovery experience.
+**Key Features**
+
+- Semantic Image Search using Vector Embeddings
+- Personalized Recommendation System
+- AI-Powered Artwork Discovery
+- User Preference Analysis
+- Scalable Multimedia Architecture
 
 ---
+
+## 📌 Featured Projects
 
 ### 👟 FootwearHub
 
-Full-stack e-commerce platform for footwear products.
+Full-Stack E-Commerce Platform
 
-- Secure JWT Authentication with HTTP-Only Cookies.
-- Ownership-based authorization.
-- Advanced dynamic filtering system.
-- PostgreSQL + Prisma ORM.
-- Shopping cart and product management functionality.
-
----
+- Secure JWT Authentication
+- HTTP-Only Cookies
+- PostgreSQL + Prisma ORM
+- Dynamic Product Filtering
+- Shopping Cart System
+- Ownership-Based Authorization
 
 ### ✅ Task Management System
 
-Role-Based Task Management Platform.
+Role-Based Task Management Platform
 
-- JWT Authentication and protected routes.
-- Admin Dashboard with full system management.
-- MongoDB + Mongoose integration.
-- TypeScript on frontend and backend.
-- Role-Based Access Control (RBAC).
-
----
-
-## 🧠 Problem Solving
-
-- Active Competitive Programmer on Codeforces.
-- Strong foundation in Data Structures and Algorithms.
-- Experience solving algorithmic and logical programming challenges.
-- Passionate about software optimization and debugging.
-- Analytical thinker with a structured problem-solving approach.
+- RBAC Authorization System
+- Admin Dashboard
+- MongoDB + Mongoose
+- TypeScript
+- JWT Authentication
+- Protected API Routes
 
 ---
 
-## 🌱 Currently
+## 🧠 Competitive Programming
 
-- Developing InkFig as a graduation project.
-- Exploring Vector Databases and Semantic Search.
-- Learning more about Recommendation Systems and AI-powered applications.
-- Improving Competitive Programming and Problem Solving skills.
+- Active Competitive Programmer on Codeforces
+- Strong Foundation in Data Structures and Algorithms
+- Passionate About Software Optimization and Problem Solving
+- Experience Solving Algorithmic Programming Challenges
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7madishaq&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7madishaq&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a7madishaq&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=a7madishaq)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7madishaq&layout=compact&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=a7madishaq&theme=tokyonight"/>
+
+</div>
 
 ---
 
-### 💡 Favorite Quote
+## 🌱 Currently Learning
 
-> "First, solve the problem. Then, write the code."
+- Vector Databases
+- Recommendation Systems
+- AI-Powered Search Systems
+- Advanced System Design
+- FastAPI Ecosystem
+
+---
+
+## 💡 Favorite Quote
+
+> First, solve the problem. Then, write the code.
+
+---
+
+<div align="center">
+
+⭐ Always interested in building impactful software and learning new technologies.
+
+</div>
