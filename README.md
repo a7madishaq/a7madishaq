@@ -6,10 +6,10 @@
 
 Building intelligent web applications through AI, semantic search, and modern full-stack development.
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/a7mad.ishaq)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-005BAC?style=for-the-badge&logo=atcoder&logoColor=white)](https://kenkoooo.com/atcoder/#/user/a7madishaq?userPageTab=Achievement)
-[![GitHub](https://img.shields.io/badge/GitHub-a7madishaq-black?logo=github)](https://github.com/a7madishaq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmadAbuRayia-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-abu-rayia-23a3b3320/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/a7mad.ishaq)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-005BAC?style=for-the-badge)](https://kenkoooo.com/atcoder/#/user/a7madishaq?userPageTab=Achievement)
+[![GitHub](https://img.shields.io/badge/GitHub-a7madishaq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a7madishaq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmadAbuRayia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-abu-rayia-23a3b3320/)
 
 </div>
 
