@@ -7,7 +7,7 @@
 Building intelligent web applications through AI, semantic search, and modern full-stack development.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/a7mad.ishaq)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-005BAC?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/a7madishaq)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-005BAC?style=for-the-badge&logo=atcoder&logoColor=white)]([https://atcoder.jp/users/a7madishaq](https://kenkoooo.com/atcoder/#/user/a7madishaq?userPageTab=Achievement))
 [![GitHub](https://img.shields.io/badge/GitHub-a7madishaq-black?logo=github)](https://github.com/a7madishaq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmadAbuRayia-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-abu-rayia-23a3b3320/)
 
