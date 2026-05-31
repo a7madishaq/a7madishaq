@@ -8,7 +8,7 @@ Building intelligent web applications through AI, semantic search, and modern fu
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/a7mad.ishaq)
 [![GitHub](https://img.shields.io/badge/GitHub-a7madishaq-black?logo=github)](https://github.com/a7madishaq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-abu-rayia-23a3b3320/)
 
 </div>
 
