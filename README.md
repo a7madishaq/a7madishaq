@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Ahmad Abu Raya
+
+</div>
 
 ### Full-Stack Developer · Problem Solver · AI-Powered Systems Enthusiast
 
