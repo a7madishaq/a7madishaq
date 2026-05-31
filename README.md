@@ -127,14 +127,11 @@ Role-Based Task Management Platform.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=a7madishaq)
   
 </div>
-
 
 ---
 
