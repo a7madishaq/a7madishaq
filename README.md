@@ -129,11 +129,12 @@ Role-Based Task Management Platform.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7madishaq&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7madishaq&layout=compact)
-
+<div align="center">
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=a7madishaq)
+  
+</div>
+
 
 ---
 
